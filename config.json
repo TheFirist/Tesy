@@ -1,0 +1,24 @@
+{
+    "bot": {
+        "token": "MTAxODM2MzMyNTk0MTMwMTI4OA.Gspt97.KjmoBfMa-g3_oGgclA1M_1xd94e_W3PAPbx68U",
+        "prefix": "!",
+        "id": "1018363325941301288",
+        "secret": "kFEd-M1Fb4gNQ30Gv4lPkWPZSasNjDHo"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://Uptimer-Website.customdylan1.repl.co",
+        "callback": "https://Uptimer-Website.customdylan1.repl.co/callback",
+        "discord_server_ID": "978796422159798322",
+        "owners": [
+            "960025881642958898"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://oddcoder:oddcoder@cluster0.hygob2n.mongodb.net/?retryWrites=true&w=majority",
+    "discord": "https://dscolink.ga/discord",
+    "logs": "978800769031626792"
+}
